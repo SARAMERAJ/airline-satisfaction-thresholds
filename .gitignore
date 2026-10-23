@@ -1,0 +1,6 @@
+# Data are not redistributed; download them from Kaggle (see README.md)
+airline_passenger_satisfaction.csv
+results_air.zip
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
