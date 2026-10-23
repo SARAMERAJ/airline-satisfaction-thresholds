@@ -1,0 +1,85 @@
+Attribute,Class,Travel,n,n rated 4-5,Top-rating contrast
+Departure and Arrival Time Convenience,Business,Business,6495,2606,-0.325
+Departure and Arrival Time Convenience,Business,Personal,290,196,-0.383
+Departure and Arrival Time Convenience,Economy,Business,2629,960,-0.192
+Departure and Arrival Time Convenience,Economy,Personal,3749,2608,-0.297
+Departure and Arrival Time Convenience,Economy Plus,Business,542,190,-0.198
+Departure and Arrival Time Convenience,Economy Plus,Personal,498,352,-0.296
+Ease of Online Booking,Business,Business,6523,2685,0.215
+Ease of Online Booking,Business,Personal,295,70,0.488
+Ease of Online Booking,Economy,Business,2866,950,0.386
+Ease of Online Booking,Economy,Personal,3632,792,0.56
+Ease of Online Booking,Economy Plus,Business,541,212,0.338
+Ease of Online Booking,Economy Plus,Personal,485,103,0.538
+Check-in Service,Business,Business,6822,3610,0.633
+Check-in Service,Business,Personal,304,141,0.399
+Check-in Service,Economy,Business,2953,1060,0.591
+Check-in Service,Economy,Personal,3854,1891,0.371
+Check-in Service,Economy Plus,Business,557,177,0.671
+Check-in Service,Economy Plus,Personal,510,249,0.373
+Online Boarding,Business,Business,6754,4598,2.994
+Online Boarding,Business,Personal,300,143,2.313
+Online Boarding,Economy,Business,2876,987,2.655
+Online Boarding,Economy,Personal,3682,1242,2.108
+Online Boarding,Economy Plus,Business,542,206,2.909
+Online Boarding,Economy Plus,Personal,496,146,2.178
+Gate Location,Business,Business,6822,2628,-0.506
+Gate Location,Business,Personal,304,102,-0.39
+Gate Location,Economy,Business,2953,1138,-0.287
+Gate Location,Economy,Personal,3854,1241,-0.264
+Gate Location,Economy Plus,Business,557,224,-0.311
+Gate Location,Economy Plus,Personal,510,164,-0.256
+On-board Service,Business,Business,6821,4418,0.356
+On-board Service,Business,Personal,304,142,0.231
+On-board Service,Economy,Business,2953,1101,0.344
+On-board Service,Economy,Personal,3854,1820,0.217
+On-board Service,Economy Plus,Business,557,192,0.352
+On-board Service,Economy Plus,Personal,510,246,0.207
+Seat Comfort,Business,Business,6822,4689,0.753
+Seat Comfort,Business,Personal,304,184,0.384
+Seat Comfort,Economy,Business,2953,1202,0.417
+Seat Comfort,Economy,Personal,3854,1780,0.323
+Seat Comfort,Economy Plus,Business,557,239,0.505
+Seat Comfort,Economy Plus,Personal,510,229,0.348
+Leg Room Service,Business,Business,6812,4354,0.526
+Leg Room Service,Business,Personal,300,104,0.4
+Leg Room Service,Economy,Business,2953,1240,0.295
+Leg Room Service,Economy,Personal,3816,1553,0.232
+Leg Room Service,Economy Plus,Business,557,201,0.336
+Leg Room Service,Economy Plus,Personal,499,224,0.238
+Cleanliness,Business,Business,6822,3669,0.458
+Cleanliness,Business,Personal,304,140,0.309
+Cleanliness,Economy,Business,2953,1215,0.331
+Cleanliness,Economy,Personal,3854,1626,0.261
+Cleanliness,Economy Plus,Business,557,234,0.387
+Cleanliness,Economy Plus,Personal,510,219,0.273
+Food and Drink,Business,Business,6819,3310,0.046
+Food and Drink,Business,Personal,303,126,0.033
+Food and Drink,Economy,Business,2951,1238,0.066
+Food and Drink,Economy,Personal,3846,1552,0.027
+Food and Drink,Economy Plus,Business,557,240,0.079
+Food and Drink,Economy Plus,Personal,510,216,0.026
+In-flight Service,Business,Business,6821,4948,0.535
+In-flight Service,Business,Personal,304,165,0.301
+In-flight Service,Economy,Business,2953,1370,0.365
+In-flight Service,Economy,Personal,3854,2401,0.291
+In-flight Service,Economy Plus,Business,557,228,0.296
+In-flight Service,Economy Plus,Personal,510,322,0.292
+In-flight Wifi Service,Business,Business,6533,2298,3.616
+In-flight Wifi Service,Business,Personal,299,70,5.124
+In-flight Wifi Service,Economy,Business,2883,1002,4.172
+In-flight Wifi Service,Economy,Personal,3774,762,5.756
+In-flight Wifi Service,Economy Plus,Business,543,201,3.732
+In-flight Wifi Service,Economy Plus,Personal,499,97,6.008
+In-flight Entertainment,Business,Business,6821,4405,0.718
+In-flight Entertainment,Business,Personal,304,131,0.403
+In-flight Entertainment,Economy,Business,2953,1285,0.405
+In-flight Entertainment,Economy,Personal,3854,1557,0.31
+In-flight Entertainment,Economy Plus,Business,557,240,0.528
+In-flight Entertainment,Economy Plus,Personal,510,208,0.313
+Baggage Handling,Business,Business,6822,4941,0.845
+Baggage Handling,Business,Personal,304,159,0.471
+Baggage Handling,Economy,Business,2953,1367,0.441
+Baggage Handling,Economy,Personal,3854,2373,0.391
+Baggage Handling,Economy Plus,Business,557,207,0.346
+Baggage Handling,Economy Plus,Personal,510,299,0.352

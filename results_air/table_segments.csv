@@ -1,0 +1,7 @@
+Type of Travel,Class,Passengers,Satisfied share
+Business,Business,59487,0.72
+Business,Economy,25304,0.299
+Business,Economy Plus,4902,0.393
+Personal,Business,2673,0.117
+Personal,Economy,33005,0.102
+Personal,Economy Plus,4509,0.087

@@ -1,0 +1,3 @@
+Test,Statistic,p-value,Detail
+Friedman (F1),14.039999999999992,0.0028512084304522568,
+McNemar (LightGBM vs XGBoost),11.722613065326634,0.0006174519391907861,only LightGBM correct: 552; only XGBoost correct: 443

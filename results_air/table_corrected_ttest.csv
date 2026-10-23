@@ -1,0 +1,7 @@
+Metric,Mean difference,Folds LightGBM higher,Corrected t,p (two-sided)
+Accuracy,0.0008,4,1.96,0.121
+Precision,0.0019,4,1.69,0.167
+Recall,0.0001,3,0.17,0.871
+F1,0.0009,4,1.96,0.121
+ROC-AUC,0.0002,5,2.71,0.053
+PR-AUC,0.0002,5,2.69,0.054

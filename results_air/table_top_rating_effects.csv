@@ -1,0 +1,71 @@
+Attribute,Segment,Passengers,Top-rating effect,CI low,CI high,Mean SHAP 1,Mean SHAP 2,Mean SHAP 3,Mean SHAP 4,Mean SHAP 5
+Departure and Arrival Time Convenience,All passengers,14203,-0.306,-0.311,-0.302,0.1,0.153,0.149,-0.078,-0.275
+Departure and Arrival Time Convenience,Business travel,9666,-0.281,-0.287,-0.275,0.105,0.165,0.164,-0.04,-0.241
+Departure and Arrival Time Convenience,Personal travel,4537,-0.302,-0.308,-0.296,0.074,0.095,0.092,-0.123,-0.316
+Departure and Arrival Time Convenience,Returning customers,11921,-0.322,-0.327,-0.317,0.127,0.158,0.148,-0.078,-0.281
+Departure and Arrival Time Convenience,First-time customers,2282,-0.219,-0.229,-0.209,-0.031,0.135,0.153,-0.076,-0.216
+Ease of Online Booking,All passengers,14342,0.339,0.334,0.345,-0.163,-0.132,-0.062,0.202,0.257
+Ease of Online Booking,Business travel,9930,0.269,0.264,0.274,-0.137,-0.09,-0.036,0.165,0.208
+Ease of Online Booking,Personal travel,4412,0.552,0.537,0.566,-0.217,-0.204,-0.105,0.309,0.603
+Ease of Online Booking,Returning customers,11700,0.307,0.301,0.313,-0.146,-0.118,-0.053,0.192,0.224
+Ease of Online Booking,First-time customers,2642,0.49,0.477,0.503,-0.236,-0.186,-0.101,0.245,0.479
+Check-in Service,All passengers,15000,0.556,0.542,0.57,-0.528,-0.378,-0.047,-0.058,0.834
+Check-in Service,Business travel,10332,0.639,0.62,0.657,-0.617,-0.447,-0.056,-0.066,0.932
+Check-in Service,Personal travel,4668,0.373,0.358,0.389,-0.312,-0.209,-0.028,-0.042,0.626
+Check-in Service,Returning customers,12235,0.57,0.557,0.587,-0.534,-0.393,-0.061,-0.071,0.86
+Check-in Service,First-time customers,2765,0.495,0.472,0.519,-0.505,-0.32,0.013,0.002,0.712
+Online Boarding,All passengers,14650,2.672,2.648,2.694,-1.476,-1.417,-1.459,0.533,2.254
+Online Boarding,Business travel,10172,2.92,2.895,2.944,-1.657,-1.578,-1.639,0.526,2.377
+Online Boarding,Personal travel,4478,2.132,2.101,2.161,-1.231,-1.188,-1.166,0.559,1.686
+Online Boarding,Returning customers,12005,2.686,2.661,2.709,-1.396,-1.401,-1.47,0.539,2.287
+Online Boarding,First-time customers,2645,2.471,2.419,2.518,-1.67,-1.459,-1.416,0.495,1.928
+Gate Location,All passengers,15000,-0.383,-0.39,-0.374,0.174,0.119,-0.024,-0.243,-0.431
+Gate Location,Business travel,10332,-0.433,-0.443,-0.421,0.216,0.147,-0.007,-0.238,-0.451
+Gate Location,Personal travel,4668,-0.272,-0.279,-0.264,0.066,0.05,-0.05,-0.253,-0.331
+Gate Location,Returning customers,12235,-0.404,-0.412,-0.396,0.187,0.13,-0.004,-0.231,-0.438
+Gate Location,First-time customers,2765,-0.29,-0.302,-0.279,0.096,0.065,-0.092,-0.288,-0.371
+On-board Service,All passengers,14999,0.312,0.308,0.317,-0.259,-0.196,-0.068,0.033,0.327
+On-board Service,Business travel,10331,0.357,0.351,0.364,-0.317,-0.226,-0.077,0.045,0.349
+On-board Service,Personal travel,4668,0.217,0.211,0.224,-0.156,-0.123,-0.053,0.001,0.272
+On-board Service,Returning customers,12234,0.311,0.306,0.317,-0.246,-0.187,-0.078,0.033,0.32
+On-board Service,First-time customers,2765,0.318,0.306,0.332,-0.309,-0.234,-0.033,0.032,0.366
+Seat Comfort,All passengers,15000,0.532,0.52,0.544,-0.159,-0.232,-0.39,-0.076,0.663
+Seat Comfort,Business travel,10332,0.636,0.621,0.651,-0.207,-0.292,-0.484,-0.091,0.74
+Seat Comfort,Personal travel,4668,0.328,0.316,0.338,-0.096,-0.132,-0.2,-0.034,0.448
+Seat Comfort,Returning customers,12235,0.577,0.565,0.591,-0.181,-0.259,-0.433,-0.084,0.702
+Seat Comfort,First-time customers,2765,0.373,0.356,0.388,-0.11,-0.157,-0.222,-0.021,0.437
+Leg Room Service,All passengers,14937,0.386,0.38,0.392,-0.275,-0.182,-0.214,0.055,0.309
+Leg Room Service,Business travel,10322,0.445,0.438,0.452,-0.31,-0.201,-0.248,0.067,0.361
+Leg Room Service,Personal travel,4615,0.244,0.239,0.248,-0.208,-0.151,-0.161,0.02,0.147
+Leg Room Service,Returning customers,12172,0.42,0.414,0.427,-0.301,-0.193,-0.234,0.063,0.338
+Leg Room Service,First-time customers,2765,0.232,0.225,0.239,-0.184,-0.143,-0.138,0.015,0.158
+Cleanliness,All passengers,15000,0.375,0.366,0.384,-0.233,-0.231,-0.035,0.005,0.514
+Cleanliness,Business travel,10332,0.424,0.413,0.435,-0.296,-0.284,-0.042,0.006,0.567
+Cleanliness,Personal travel,4668,0.265,0.256,0.274,-0.135,-0.133,-0.019,0.002,0.385
+Cleanliness,Returning customers,12235,0.392,0.381,0.401,-0.257,-0.253,-0.038,0.007,0.543
+Cleanliness,First-time customers,2765,0.295,0.283,0.308,-0.16,-0.164,-0.02,-0.007,0.379
+Food and Drink,All passengers,14986,0.046,0.044,0.048,-0.09,-0.018,0.012,0.051,-0.008
+Food and Drink,Business travel,10327,0.054,0.052,0.057,-0.112,-0.02,0.012,0.059,-0.008
+Food and Drink,Personal travel,4659,0.027,0.024,0.029,-0.055,-0.014,0.011,0.028,-0.008
+Food and Drink,Returning customers,12223,0.043,0.04,0.045,-0.092,-0.014,0.014,0.051,-0.009
+Food and Drink,First-time customers,2763,0.058,0.055,0.062,-0.083,-0.035,0.003,0.046,-0.003
+In-flight Service,All passengers,14999,0.41,0.401,0.42,-0.047,-0.15,-0.354,-0.071,0.509
+In-flight Service,Business travel,10331,0.466,0.454,0.477,-0.062,-0.182,-0.42,-0.082,0.541
+In-flight Service,Personal travel,4668,0.292,0.282,0.302,-0.023,-0.073,-0.207,-0.045,0.439
+In-flight Service,Returning customers,12234,0.406,0.396,0.417,-0.074,-0.161,-0.356,-0.08,0.501
+In-flight Service,First-time customers,2765,0.426,0.405,0.445,0.101,-0.079,-0.345,-0.029,0.544
+In-flight Wifi Service,All passengers,14531,4.362,4.283,4.441,-1.923,-1.468,-1.432,1.075,5.73
+In-flight Wifi Service,Business travel,9959,3.783,3.704,3.866,-1.496,-1.066,-1.025,0.699,5.346
+In-flight Wifi Service,Personal travel,4572,5.736,5.573,5.903,-2.79,-2.175,-2.091,2.119,8.683
+In-flight Wifi Service,Returning customers,11875,4.213,4.131,4.296,-1.728,-1.418,-1.399,1.025,5.491
+In-flight Wifi Service,First-time customers,2656,5.031,4.859,5.237,-2.781,-1.676,-1.584,1.285,7.069
+In-flight Entertainment,All passengers,14999,0.531,0.52,0.54,-0.517,-0.195,-0.079,0.429,0.14
+In-flight Entertainment,Business travel,10331,0.627,0.615,0.64,-0.676,-0.247,-0.108,0.488,0.151
+In-flight Entertainment,Personal travel,4668,0.317,0.309,0.324,-0.325,-0.106,-0.027,0.233,0.108
+In-flight Entertainment,Returning customers,12234,0.573,0.561,0.584,-0.581,-0.212,-0.09,0.453,0.157
+In-flight Entertainment,First-time customers,2765,0.332,0.32,0.344,-0.345,-0.138,-0.035,0.277,0.05
+Baggage Handling,All passengers,15000,0.595,0.583,0.606,-0.136,-0.293,-0.479,-0.062,0.648
+Baggage Handling,Business travel,10332,0.69,0.676,0.705,-0.186,-0.363,-0.563,-0.069,0.703
+Baggage Handling,Personal travel,4668,0.392,0.379,0.406,-0.063,-0.132,-0.289,-0.046,0.526
+Baggage Handling,Returning customers,12235,0.623,0.61,0.636,-0.167,-0.327,-0.498,-0.064,0.662
+Baggage Handling,First-time customers,2765,0.466,0.446,0.489,0.124,-0.111,-0.408,-0.055,0.582

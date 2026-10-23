@@ -1,0 +1,15 @@
+,Departure and Arrival Time Convenience,Ease of Online Booking,Check-in Service,Online Boarding,Gate Location,On-board Service,Seat Comfort,Leg Room Service,Cleanliness,Food and Drink,In-flight Service,In-flight Wifi Service,In-flight Entertainment,Baggage Handling
+Departure and Arrival Time Convenience,1.0,0.51,0.12,0.06,0.5,0.08,-0.0,-0.01,0.0,-0.01,0.1,0.37,-0.03,0.1
+Ease of Online Booking,0.51,1.0,0.02,0.35,0.5,0.03,0.03,0.08,0.01,0.03,0.03,0.69,0.03,0.03
+Check-in Service,0.12,0.02,1.0,0.23,-0.04,0.24,0.2,0.15,0.17,0.08,0.25,0.06,0.12,0.25
+Online Boarding,0.06,0.35,0.23,1.0,-0.0,0.18,0.45,0.14,0.35,0.25,0.12,0.45,0.31,0.13
+Gate Location,0.5,0.5,-0.04,-0.0,1.0,-0.03,0.0,-0.01,-0.01,-0.0,-0.01,0.35,0.0,-0.01
+On-board Service,0.08,0.03,0.24,0.18,-0.03,1.0,0.15,0.37,0.12,0.06,0.57,0.12,0.44,0.54
+Seat Comfort,-0.0,0.03,0.2,0.45,0.0,0.15,1.0,0.12,0.67,0.56,0.1,0.13,0.6,0.11
+Leg Room Service,-0.01,0.08,0.15,0.14,-0.01,0.37,0.12,1.0,0.1,0.03,0.37,0.14,0.32,0.37
+Cleanliness,0.0,0.01,0.17,0.35,-0.01,0.12,0.67,0.1,1.0,0.65,0.1,0.14,0.68,0.11
+Food and Drink,-0.01,0.03,0.08,0.25,-0.0,0.06,0.56,0.03,0.65,1.0,0.04,0.14,0.61,0.05
+In-flight Service,0.1,0.03,0.25,0.12,-0.01,0.57,0.1,0.37,0.1,0.04,1.0,0.11,0.42,0.63
+In-flight Wifi Service,0.37,0.69,0.06,0.45,0.35,0.12,0.13,0.14,0.14,0.14,0.11,1.0,0.2,0.11
+In-flight Entertainment,-0.03,0.03,0.12,0.31,0.0,0.44,0.6,0.32,0.68,0.61,0.42,0.2,1.0,0.4
+Baggage Handling,0.1,0.03,0.25,0.13,-0.01,0.54,0.11,0.37,0.11,0.05,0.63,0.11,0.4,1.0

@@ -1,0 +1,15 @@
+Attribute,All passengers,Business travel,Personal travel,Returning customers,First-time customers
+Baggage Handling,Excitement,Excitement,Excitement,Excitement,Excitement
+Check-in Service,Performance,Performance,Performance,Performance,Performance
+Cleanliness,Performance,Performance,Excitement,Performance,Performance
+Departure and Arrival Time Convenience,Weak effect,Weak effect,Weak effect,Weak effect,Weak effect
+Ease of Online Booking,Excitement,Excitement,Excitement,Excitement,Excitement
+Food and Drink,Weak effect,Weak effect,Weak effect,Weak effect,Weak effect
+Gate Location,"Reversed (higher rating, lower satisfaction)","Reversed (higher rating, lower satisfaction)","Reversed (higher rating, lower satisfaction)","Reversed (higher rating, lower satisfaction)","Reversed (higher rating, lower satisfaction)"
+In-flight Entertainment,Performance,Performance,Performance,Performance,Performance
+In-flight Service,Excitement,Excitement,Excitement,Excitement,Excitement
+In-flight Wifi Service,Excitement,Excitement,Excitement,Excitement,Excitement
+Leg Room Service,Excitement,Excitement,Excitement,Excitement,Excitement
+On-board Service,Performance,Performance,Excitement,Excitement,Performance
+Online Boarding,Excitement,Excitement,Excitement,Excitement,Excitement
+Seat Comfort,Excitement,Excitement,Excitement,Excitement,Excitement

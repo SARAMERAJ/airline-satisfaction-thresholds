@@ -1,0 +1,15 @@
+Attribute,Class-standardised personal minus business,CI low,CI high
+Departure and Arrival Time Convenience,-0.082,-0.099,-0.065
+Ease of Online Booking,0.223,0.201,0.243
+Check-in Service,-0.232,-0.271,-0.192
+Online Boarding,-0.624,-0.689,-0.569
+Gate Location,0.069,0.044,0.094
+On-board Service,-0.127,-0.142,-0.112
+Seat Comfort,-0.229,-0.256,-0.202
+Leg Room Service,-0.095,-0.11,-0.082
+Cleanliness,-0.111,-0.135,-0.086
+Food and Drink,-0.028,-0.032,-0.022
+In-flight Service,-0.145,-0.169,-0.123
+In-flight Wifi Service,1.597,1.324,1.914
+In-flight Entertainment,-0.208,-0.228,-0.187
+Baggage Handling,-0.2,-0.23,-0.174

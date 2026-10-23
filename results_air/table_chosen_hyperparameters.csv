@@ -1,0 +1,21 @@
+Model,Fold,Validation ROC-AUC,C,max_depth,min_samples_leaf,max_features,learning_rate,subsample,colsample_bytree,min_child_weight,reg_lambda,num_leaves,min_child_samples
+Logistic Regression,1,0.9657,1.0,,,,,,,,,,
+Logistic Regression,2,0.9641,10.0,,,,,,,,,,
+Logistic Regression,3,0.9675,10.0,,,,,,,,,,
+Logistic Regression,4,0.9665,10.0,,,,,,,,,,
+Logistic Regression,5,0.9653,10.0,,,,,,,,,,
+Random Forest,1,0.9943,,30.0,1.0,sqrt,,,,,,,
+Random Forest,2,0.9937,,30.0,1.0,sqrt,,,,,,,
+Random Forest,3,0.9947,,30.0,1.0,sqrt,,,,,,,
+Random Forest,4,0.9945,,30.0,1.0,sqrt,,,,,,,
+Random Forest,5,0.9945,,30.0,1.0,sqrt,,,,,,,
+XGBoost,1,0.9959,,10.0,,,0.03,1.0,0.8,1.0,1.0,,
+XGBoost,2,0.9951,,10.0,,,0.03,1.0,0.8,1.0,1.0,,
+XGBoost,3,0.9959,,10.0,,,0.03,1.0,0.8,1.0,1.0,,
+XGBoost,4,0.996,,10.0,,,0.05,0.8,0.8,3.0,1.0,,
+XGBoost,5,0.9961,,8.0,,,0.03,1.0,1.0,1.0,0.5,,
+LightGBM,1,0.996,,,,,0.03,1.0,0.6,,0.0,127.0,10.0
+LightGBM,2,0.9952,,,,,0.05,0.8,1.0,,1.0,63.0,10.0
+LightGBM,3,0.996,,,,,0.03,1.0,0.6,,0.0,127.0,10.0
+LightGBM,4,0.996,,,,,0.03,1.0,0.6,,0.0,127.0,10.0
+LightGBM,5,0.9963,,,,,0.03,1.0,0.6,,0.0,127.0,10.0

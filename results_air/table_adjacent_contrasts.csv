@@ -1,0 +1,169 @@
+Segment,Attribute,Step,Contrast,CI low,CI high
+All passengers,Departure and Arrival Time Convenience,1->2,0.053,0.045,0.061
+All passengers,Departure and Arrival Time Convenience,2->3,-0.004,-0.01,0.002
+All passengers,Departure and Arrival Time Convenience,3->4,-0.227,-0.231,-0.222
+All passengers,Departure and Arrival Time Convenience,4->5,-0.198,-0.203,-0.192
+All passengers,Ease of Online Booking,1->2,0.031,0.025,0.036
+All passengers,Ease of Online Booking,2->3,0.07,0.065,0.074
+All passengers,Ease of Online Booking,3->4,0.264,0.259,0.27
+All passengers,Ease of Online Booking,4->5,0.055,0.043,0.066
+All passengers,Check-in Service,1->2,0.15,0.136,0.163
+All passengers,Check-in Service,2->3,0.331,0.322,0.34
+All passengers,Check-in Service,3->4,-0.011,-0.014,-0.007
+All passengers,Check-in Service,4->5,0.892,0.877,0.907
+All passengers,Online Boarding,1->2,0.059,0.037,0.084
+All passengers,Online Boarding,2->3,-0.042,-0.061,-0.024
+All passengers,Online Boarding,3->4,1.992,1.977,2.008
+All passengers,Online Boarding,4->5,1.721,1.7,1.741
+All passengers,Gate Location,1->2,-0.054,-0.067,-0.042
+All passengers,Gate Location,2->3,-0.144,-0.151,-0.137
+All passengers,Gate Location,3->4,-0.219,-0.227,-0.211
+All passengers,Gate Location,4->5,-0.188,-0.2,-0.175
+All passengers,On-board Service,1->2,0.064,0.056,0.071
+All passengers,On-board Service,2->3,0.128,0.123,0.133
+All passengers,On-board Service,3->4,0.101,0.098,0.104
+All passengers,On-board Service,4->5,0.294,0.289,0.299
+All passengers,Seat Comfort,1->2,-0.072,-0.083,-0.062
+All passengers,Seat Comfort,2->3,-0.159,-0.171,-0.147
+All passengers,Seat Comfort,3->4,0.314,0.304,0.324
+All passengers,Seat Comfort,4->5,0.739,0.726,0.752
+All passengers,Leg Room Service,1->2,0.093,0.084,0.103
+All passengers,Leg Room Service,2->3,-0.032,-0.038,-0.026
+All passengers,Leg Room Service,3->4,0.269,0.263,0.275
+All passengers,Leg Room Service,4->5,0.254,0.246,0.261
+All passengers,Cleanliness,1->2,0.002,-0.008,0.011
+All passengers,Cleanliness,2->3,0.196,0.19,0.203
+All passengers,Cleanliness,3->4,0.039,0.037,0.041
+All passengers,Cleanliness,4->5,0.51,0.499,0.521
+All passengers,Food and Drink,1->2,0.072,0.068,0.076
+All passengers,Food and Drink,2->3,0.03,0.028,0.032
+All passengers,Food and Drink,3->4,0.039,0.037,0.04
+All passengers,Food and Drink,4->5,-0.058,-0.061,-0.056
+All passengers,In-flight Service,1->2,-0.103,-0.12,-0.085
+All passengers,In-flight Service,2->3,-0.203,-0.213,-0.194
+All passengers,In-flight Service,3->4,0.283,0.277,0.29
+All passengers,In-flight Service,4->5,0.58,0.572,0.588
+All passengers,In-flight Wifi Service,1->2,0.455,0.4,0.505
+All passengers,In-flight Wifi Service,2->3,0.036,0.003,0.072
+All passengers,In-flight Wifi Service,3->4,2.506,2.469,2.547
+All passengers,In-flight Wifi Service,4->5,4.655,4.573,4.738
+All passengers,In-flight Entertainment,1->2,0.322,0.303,0.341
+All passengers,In-flight Entertainment,2->3,0.117,0.105,0.128
+All passengers,In-flight Entertainment,3->4,0.507,0.497,0.518
+All passengers,In-flight Entertainment,4->5,-0.288,-0.298,-0.278
+All passengers,Baggage Handling,1->2,-0.157,-0.184,-0.128
+All passengers,Baggage Handling,2->3,-0.186,-0.201,-0.171
+All passengers,Baggage Handling,3->4,0.416,0.408,0.425
+All passengers,Baggage Handling,4->5,0.71,0.701,0.72
+Business travel,Departure and Arrival Time Convenience,1->2,0.06,0.051,0.07
+Business travel,Departure and Arrival Time Convenience,2->3,-0.002,-0.009,0.005
+Business travel,Departure and Arrival Time Convenience,3->4,-0.203,-0.209,-0.198
+Business travel,Departure and Arrival Time Convenience,4->5,-0.202,-0.209,-0.194
+Business travel,Ease of Online Booking,1->2,0.048,0.041,0.055
+Business travel,Ease of Online Booking,2->3,0.054,0.048,0.059
+Business travel,Ease of Online Booking,3->4,0.201,0.195,0.207
+Business travel,Ease of Online Booking,4->5,0.043,0.033,0.053
+Business travel,Check-in Service,1->2,0.17,0.154,0.185
+Business travel,Check-in Service,2->3,0.391,0.381,0.401
+Business travel,Check-in Service,3->4,-0.009,-0.014,-0.004
+Business travel,Check-in Service,4->5,0.998,0.978,1.017
+Business travel,Online Boarding,1->2,0.079,0.047,0.109
+Business travel,Online Boarding,2->3,-0.061,-0.082,-0.04
+Business travel,Online Boarding,3->4,2.165,2.146,2.183
+Business travel,Online Boarding,4->5,1.851,1.83,1.873
+Business travel,Gate Location,1->2,-0.069,-0.084,-0.053
+Business travel,Gate Location,2->3,-0.155,-0.164,-0.145
+Business travel,Gate Location,3->4,-0.231,-0.243,-0.22
+Business travel,Gate Location,4->5,-0.213,-0.228,-0.198
+Business travel,On-board Service,1->2,0.091,0.083,0.1
+Business travel,On-board Service,2->3,0.149,0.143,0.155
+Business travel,On-board Service,3->4,0.122,0.118,0.126
+Business travel,On-board Service,4->5,0.304,0.298,0.311
+Business travel,Seat Comfort,1->2,-0.085,-0.1,-0.068
+Business travel,Seat Comfort,2->3,-0.193,-0.208,-0.177
+Business travel,Seat Comfort,3->4,0.393,0.381,0.405
+Business travel,Seat Comfort,4->5,0.831,0.815,0.847
+Business travel,Leg Room Service,1->2,0.109,0.096,0.123
+Business travel,Leg Room Service,2->3,-0.047,-0.055,-0.039
+Business travel,Leg Room Service,3->4,0.315,0.307,0.323
+Business travel,Leg Room Service,4->5,0.294,0.286,0.303
+Business travel,Cleanliness,1->2,0.012,-0.001,0.025
+Business travel,Cleanliness,2->3,0.243,0.234,0.252
+Business travel,Cleanliness,3->4,0.047,0.044,0.05
+Business travel,Cleanliness,4->5,0.561,0.547,0.576
+Business travel,Food and Drink,1->2,0.093,0.088,0.097
+Business travel,Food and Drink,2->3,0.032,0.03,0.035
+Business travel,Food and Drink,3->4,0.047,0.045,0.049
+Business travel,Food and Drink,4->5,-0.067,-0.07,-0.064
+Business travel,In-flight Service,1->2,-0.12,-0.148,-0.095
+Business travel,In-flight Service,2->3,-0.238,-0.25,-0.225
+Business travel,In-flight Service,3->4,0.338,0.33,0.346
+Business travel,In-flight Service,4->5,0.623,0.613,0.634
+Business travel,In-flight Wifi Service,1->2,0.43,0.365,0.499
+Business travel,In-flight Wifi Service,2->3,0.041,0.005,0.08
+Business travel,In-flight Wifi Service,3->4,1.724,1.686,1.762
+Business travel,In-flight Wifi Service,4->5,4.647,4.578,4.709
+Business travel,In-flight Entertainment,1->2,0.429,0.399,0.459
+Business travel,In-flight Entertainment,2->3,0.139,0.122,0.156
+Business travel,In-flight Entertainment,3->4,0.597,0.583,0.61
+Business travel,In-flight Entertainment,4->5,-0.337,-0.349,-0.325
+Business travel,Baggage Handling,1->2,-0.177,-0.22,-0.133
+Business travel,Baggage Handling,2->3,-0.2,-0.22,-0.18
+Business travel,Baggage Handling,3->4,0.494,0.483,0.504
+Business travel,Baggage Handling,4->5,0.772,0.759,0.784
+Personal travel,Departure and Arrival Time Convenience,1->2,0.021,0.011,0.032
+Personal travel,Departure and Arrival Time Convenience,2->3,-0.003,-0.01,0.005
+Personal travel,Departure and Arrival Time Convenience,3->4,-0.215,-0.221,-0.209
+Personal travel,Departure and Arrival Time Convenience,4->5,-0.193,-0.199,-0.186
+Personal travel,Ease of Online Booking,1->2,0.013,0.006,0.021
+Personal travel,Ease of Online Booking,2->3,0.099,0.093,0.105
+Personal travel,Ease of Online Booking,3->4,0.414,0.404,0.424
+Personal travel,Ease of Online Booking,4->5,0.294,0.258,0.33
+Personal travel,Check-in Service,1->2,0.103,0.093,0.114
+Personal travel,Check-in Service,2->3,0.182,0.176,0.188
+Personal travel,Check-in Service,3->4,-0.014,-0.017,-0.012
+Personal travel,Check-in Service,4->5,0.668,0.658,0.679
+Personal travel,Online Boarding,1->2,0.043,0.027,0.06
+Personal travel,Online Boarding,2->3,0.022,0.006,0.036
+Personal travel,Online Boarding,3->4,1.725,1.709,1.741
+Personal travel,Online Boarding,4->5,1.127,1.106,1.149
+Personal travel,Gate Location,1->2,-0.015,-0.024,-0.006
+Personal travel,Gate Location,2->3,-0.101,-0.107,-0.095
+Personal travel,Gate Location,3->4,-0.203,-0.21,-0.195
+Personal travel,Gate Location,4->5,-0.078,-0.093,-0.063
+Personal travel,On-board Service,1->2,0.033,0.025,0.04
+Personal travel,On-board Service,2->3,0.07,0.065,0.076
+Personal travel,On-board Service,3->4,0.053,0.051,0.056
+Personal travel,On-board Service,4->5,0.271,0.264,0.277
+Personal travel,Seat Comfort,1->2,-0.036,-0.043,-0.028
+Personal travel,Seat Comfort,2->3,-0.068,-0.074,-0.063
+Personal travel,Seat Comfort,3->4,0.166,0.161,0.171
+Personal travel,Seat Comfort,4->5,0.483,0.473,0.493
+Personal travel,Leg Room Service,1->2,0.057,0.047,0.066
+Personal travel,Leg Room Service,2->3,-0.01,-0.016,-0.005
+Personal travel,Leg Room Service,3->4,0.182,0.177,0.187
+Personal travel,Leg Room Service,4->5,0.126,0.121,0.131
+Personal travel,Cleanliness,1->2,0.002,-0.003,0.007
+Personal travel,Cleanliness,2->3,0.114,0.111,0.117
+Personal travel,Cleanliness,3->4,0.021,0.019,0.023
+Personal travel,Cleanliness,4->5,0.382,0.373,0.392
+Personal travel,Food and Drink,1->2,0.041,0.038,0.045
+Personal travel,Food and Drink,2->3,0.025,0.022,0.027
+Personal travel,Food and Drink,3->4,0.017,0.015,0.02
+Personal travel,Food and Drink,4->5,-0.036,-0.039,-0.033
+Personal travel,In-flight Service,1->2,-0.049,-0.063,-0.036
+Personal travel,In-flight Service,2->3,-0.134,-0.142,-0.127
+Personal travel,In-flight Service,3->4,0.162,0.158,0.167
+Personal travel,In-flight Service,4->5,0.484,0.476,0.492
+Personal travel,In-flight Wifi Service,1->2,0.616,0.593,0.64
+Personal travel,In-flight Wifi Service,2->3,0.083,0.063,0.103
+Personal travel,In-flight Wifi Service,3->4,4.21,4.178,4.243
+Personal travel,In-flight Wifi Service,4->5,6.564,6.495,6.643
+Personal travel,In-flight Entertainment,1->2,0.219,0.21,0.227
+Personal travel,In-flight Entertainment,2->3,0.079,0.073,0.086
+Personal travel,In-flight Entertainment,3->4,0.259,0.253,0.266
+Personal travel,In-flight Entertainment,4->5,-0.124,-0.133,-0.117
+Personal travel,Baggage Handling,1->2,-0.07,-0.085,-0.054
+Personal travel,Baggage Handling,2->3,-0.156,-0.165,-0.147
+Personal travel,Baggage Handling,3->4,0.242,0.238,0.247
+Personal travel,Baggage Handling,4->5,0.573,0.564,0.581
